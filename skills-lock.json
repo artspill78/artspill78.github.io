@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "board-prep": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/executive-mentor/skills/board-prep/SKILL.md",
+      "computedHash": "5e270746f0976bc49672460aac2c0d81f66e45bedaa545645455dbfbe21deb38"
+    }
+  }
+}
